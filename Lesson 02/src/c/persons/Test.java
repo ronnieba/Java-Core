@@ -25,7 +25,8 @@ public class Test {
 		p2.printName();
 		p3.printName();
 
-		Person.WhatIsAperson();
-		p1.WhatIsAperson();
+		Person.whatIsAperson();
+		p1.whatIsAperson();
+
 	}
 }
