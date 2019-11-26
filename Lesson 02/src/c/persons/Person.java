@@ -1,4 +1,4 @@
-package Person;
+package c.persons;
 
 public class Person {
 
